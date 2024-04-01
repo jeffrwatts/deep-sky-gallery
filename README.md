@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Deploy to Google Cloud
-
+npm run build
 gcloud app deploy
